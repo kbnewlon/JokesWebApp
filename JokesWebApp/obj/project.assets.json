@@ -9123,7 +9123,7 @@
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/kaylanewlon/.config/NuGet/NuGet.Config"
+        "/Users/kaylanewlon/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"

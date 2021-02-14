@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{41D5AFE5-335F-4D25-B289-456DB7143E37}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="JokesWebApp/Data/Migrations/00000000000000_CreateIdentitySchema.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="JokesWebApp/Data/Migrations/20210214024039_initialSetup.cs">
     <Files>
-      <File FileName="JokesWebApp/Data/Migrations/00000000000000_CreateIdentitySchema.cs" Line="1" Column="1" />
+      <File FileName="JokesWebApp/Data/Migrations/20210214024039_initialSetup.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -12,7 +12,7 @@
               <Node name="Controllers" expanded="True" />
               <Node name="Data" expanded="True">
                 <Node name="Migrations" expanded="True">
-                  <Node name="00000000000000_CreateIdentitySchema.cs" selected="True" />
+                  <Node name="20210214024039_initialSetup.cs" selected="True" />
                 </Node>
               </Node>
               <Node name="Models" expanded="True" />
