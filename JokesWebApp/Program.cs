@@ -20,7 +20,7 @@ namespace JokesWebApp
 
             try
             {
-                con.ConnectionString = "server = localhost:3306; User Id = " + user + "; " +
+                con.ConnectionString = "server = localhost; User Id = " + user + "; " +
                     "Persist Security Info = True; database = initialSetup; Password = " + password;
                 con.Open();
                 Console.WriteLine("Succesfully connected!");
