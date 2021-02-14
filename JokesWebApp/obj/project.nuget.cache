@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "gvhHLZnejqoIf9o24Y0m0KbTgFUlV7OsoAi8KTcyc0Y5JOkG7gC4AOdLQTqxmUTYLaJiNSuGG0cYYk2KubYiog==",
+  "dgSpecHash": "aqFW3amFgMscIsRBrnnRXoNyqIQpJ3MXvFYA1MJ6fnku1xypYZNp/7rRdrV6kAEX5D3wSYBr3BNaWINtKxoRAg==",
   "success": true,
   "projectFilePath": "/Users/kaylanewlon/Projects/JokesWebApp/JokesWebApp/JokesWebApp.csproj",
   "expectedPackageFiles": [
@@ -75,7 +75,6 @@
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.win32.registry/4.5.0/microsoft.win32.registry.4.5.0.nupkg.sha512",
     "/Users/kaylanewlon/.nuget/packages/microsoft.win32.systemevents/4.7.0/microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "/Users/kaylanewlon/.nuget/packages/mysql.data/8.0.23/mysql.data.8.0.23.nupkg.sha512",
-    "/Users/kaylanewlon/.nuget/packages/mysql.data.entityframeworkcore/8.0.22/mysql.data.entityframeworkcore.8.0.22.nupkg.sha512",
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/1.6.1/netstandard.library.1.6.1.nupkg.sha512",
     "/Users/kaylanewlon/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512",
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/nuget.frameworks/4.7.0/nuget.frameworks.4.7.0.nupkg.sha512",

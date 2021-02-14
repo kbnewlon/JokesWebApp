@@ -8,6 +8,7 @@ using Microsoft.EntityFrameworkCore;
 using JokesWebApp.Data;
 using JokesWebApp.Models;
 
+
 namespace JokesWebApp.Controllers
 {
     public class JokesController : Controller

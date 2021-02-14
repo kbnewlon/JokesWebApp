@@ -16,8 +16,6 @@
 /Users/kaylanewlon/Projects/JokesWebApp/JokesWebApp/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.UI.Views.V3.dll
 /Users/kaylanewlon/Projects/JokesWebApp/JokesWebApp/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.UI.Views.V4.dll
 /Users/kaylanewlon/Projects/JokesWebApp/JokesWebApp/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.UI.dll
-/Users/kaylanewlon/Projects/JokesWebApp/JokesWebApp/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
-/Users/kaylanewlon/Projects/JokesWebApp/JokesWebApp/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
 /Users/kaylanewlon/Projects/JokesWebApp/JokesWebApp/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
 /Users/kaylanewlon/Projects/JokesWebApp/JokesWebApp/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
 /Users/kaylanewlon/Projects/JokesWebApp/JokesWebApp/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
@@ -27,9 +25,7 @@
 /Users/kaylanewlon/Projects/JokesWebApp/JokesWebApp/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
 /Users/kaylanewlon/Projects/JokesWebApp/JokesWebApp/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
 /Users/kaylanewlon/Projects/JokesWebApp/JokesWebApp/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
-/Users/kaylanewlon/Projects/JokesWebApp/JokesWebApp/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
 /Users/kaylanewlon/Projects/JokesWebApp/JokesWebApp/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
-/Users/kaylanewlon/Projects/JokesWebApp/JokesWebApp/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
 /Users/kaylanewlon/Projects/JokesWebApp/JokesWebApp/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
 /Users/kaylanewlon/Projects/JokesWebApp/JokesWebApp/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
 /Users/kaylanewlon/Projects/JokesWebApp/JokesWebApp/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
@@ -188,3 +184,17 @@
 /Users/kaylanewlon/Projects/JokesWebApp/JokesWebApp/obj/Debug/netcoreapp3.1/Razor/Views/Jokes/Details.cshtml.g.cs
 /Users/kaylanewlon/Projects/JokesWebApp/JokesWebApp/obj/Debug/netcoreapp3.1/Razor/Views/Jokes/Edit.cshtml.g.cs
 /Users/kaylanewlon/Projects/JokesWebApp/JokesWebApp/obj/Debug/netcoreapp3.1/Razor/Views/Jokes/Index.cshtml.g.cs
+/Users/kaylanewlon/Projects/JokesWebApp/JokesWebApp/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/kaylanewlon/Projects/JokesWebApp/JokesWebApp/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/kaylanewlon/Projects/JokesWebApp/JokesWebApp/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/kaylanewlon/Projects/JokesWebApp/JokesWebApp/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/kaylanewlon/Projects/JokesWebApp/JokesWebApp/bin/Debug/netcoreapp3.1/BouncyCastle.Crypto.dll
+/Users/kaylanewlon/Projects/JokesWebApp/JokesWebApp/bin/Debug/netcoreapp3.1/Google.Protobuf.dll
+/Users/kaylanewlon/Projects/JokesWebApp/JokesWebApp/bin/Debug/netcoreapp3.1/K4os.Compression.LZ4.dll
+/Users/kaylanewlon/Projects/JokesWebApp/JokesWebApp/bin/Debug/netcoreapp3.1/K4os.Compression.LZ4.Streams.dll
+/Users/kaylanewlon/Projects/JokesWebApp/JokesWebApp/bin/Debug/netcoreapp3.1/K4os.Hash.xxHash.dll
+/Users/kaylanewlon/Projects/JokesWebApp/JokesWebApp/bin/Debug/netcoreapp3.1/MySql.Data.dll
+/Users/kaylanewlon/Projects/JokesWebApp/JokesWebApp/bin/Debug/netcoreapp3.1/Ubiety.Dns.Core.dll
+/Users/kaylanewlon/Projects/JokesWebApp/JokesWebApp/bin/Debug/netcoreapp3.1/Zstandard.Net.dll
+/Users/kaylanewlon/Projects/JokesWebApp/JokesWebApp/bin/Debug/netcoreapp3.1/Renci.SshNet.dll
+/Users/kaylanewlon/Projects/JokesWebApp/JokesWebApp/bin/Debug/netcoreapp3.1/SshNet.Security.Cryptography.dll
