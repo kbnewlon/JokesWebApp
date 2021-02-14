@@ -1,19 +1,20 @@
 ﻿<Properties StartupConfiguration="{41D5AFE5-335F-4D25-B289-456DB7143E37}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="JokesWebApp/Data/Migrations/20210214024039_initialSetup.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="README.md">
     <Files>
-      <File FileName="JokesWebApp/Data/Migrations/20210214024039_initialSetup.cs" Line="1" Column="1" />
+      <File FileName="JokesWebApp/Data/Migrations/20210214024039_initialSetup.cs" Line="20" Column="60" />
+      <File FileName="README.md" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="JokesWebApp" expanded="True">
-            <Node name="Solution Items" expanded="True" />
+            <Node name="Solution Items" expanded="True">
+              <Node name="/Users/kaylanewlon/Projects/JokesWebApp/README.md" selected="True" />
+            </Node>
             <Node name="JokesWebApp" expanded="True">
               <Node name="Controllers" expanded="True" />
               <Node name="Data" expanded="True">
-                <Node name="Migrations" expanded="True">
-                  <Node name="20210214024039_initialSetup.cs" selected="True" />
-                </Node>
+                <Node name="Migrations" expanded="True" />
               </Node>
               <Node name="Models" expanded="True" />
               <Node name="Views" expanded="True">
